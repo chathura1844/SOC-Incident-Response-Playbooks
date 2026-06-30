@@ -1,4 +1,4 @@
-# SOC Incident Response Playbooks
+# Enterprise Incident Response Playbooks
 
 A collection of practical Security Operations Center incident response playbooks designed to help analysts respond to common cybersecurity incidents in a structured and professional way.
 
